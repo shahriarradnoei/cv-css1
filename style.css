@@ -1,0 +1,531 @@
+.body-home{
+    margin: 0;
+    background-color: #f9f9f9;
+}
+.div-page-1{
+    background-image: url(image/background.jpg);
+    position: relative;
+    width: 100%;
+    height: 679px;
+}
+.div-nav{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(52, 155, 52);
+   
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding-right: 200px;
+    overflow: hidden;
+    background-color: #349b34;
+}
+li {
+    float: right;
+    padding-left: 40px;
+    margin-top: 15px;
+    font-size: 1.25rem;
+}
+.li-5{
+    float: left;
+    padding-left: 225 px;
+}
+.a-1:link , a:visited{
+    background-color: #349b34;
+    color: #fff;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+}
+ .a-1:hover{
+    background-color: #45a045;
+}
+.div-name{
+    position: absolute;
+    top: 250px;
+    right: 557.5px;
+    width: 400px;
+    height: 125px;
+    border-radius: 5px;
+}
+.h1-name{
+    text-align: center;
+    color: #349b34;
+    font-family: 'Bitter', serif;
+    font-size: 3rem;
+    text-shadow: 1.5px 1.5px 8px   #349b34;
+}
+.h2-WebDesigner{
+    text-align: center;
+    color: #349b34;
+    font-family: 'Bitter', serif;
+    font-size: 2.5rem;
+    text-shadow: 1.5px 1.5px 8px   #349b34;
+}
+.div-page-2{
+    width: 100%;
+    height: 729px;
+    background-color: #f9f9f9;
+    position: relative;
+}
+.div-about-Information{
+    width: 950px;
+    background-color: white;
+    margin-left: 289.5px;
+    position: absolute;
+    top: 50px;
+    box-shadow: 1.5px 1.5px 8px   #349b34;
+}
+.div-about{
+    display: inline-block;
+    position: relative;
+    width: 461px;
+    background-color: white;
+    padding-left: 10px;
+}
+.div-Information-1{
+    display: inline-block;
+    width: 461px;
+    background-color: white;
+    padding-left: 10px;
+}
+.div-Information-2{
+    width: 19%;
+    display: inline-block;
+    position: relative;
+}
+.div-Information-3{
+    display: inline-block;
+    position: relative;
+}
+.h2-about{
+    font-family: 'Bitter', serif;
+    position: absolute;
+    bottom: 160px;
+    margin-left: 13px;
+    padding-left: 10px;
+    background-color: #349b34;
+    border:3px solid #349b34;
+    color: #f9f9f9;
+    border-radius: 5px;
+    padding: 0 8px;
+}
+.h2-BasicInformation{
+    font-family: 'Bitter', serif;
+    color: #f9f9f9;
+    background-color: #349b34;
+    border:3px solid #349b34;
+    border-radius: 5px;
+    width: 45%;
+    padding: 0 8px;
+}
+.p-about-1{
+    position: absolute;
+    bottom: 100px;
+    padding-left: 10px;
+}
+.p-about-2{
+    position: absolute;
+    bottom: 50px;
+    padding-left: 10px;
+}
+.p-age{
+    position: absolute;
+    bottom: 120px;
+
+}
+.p-email{
+    position: absolute;
+    bottom: 80px;
+}
+.h2-Skills{
+    font-family: 'Bitter', serif;
+    text-align: center;
+    border:3px solid #349b34;
+    width: 150px;
+    background-color: #349b34;
+    color: #fff;
+    border-radius: 5px;
+    margin-left: 400px;
+}
+.div-Skills{
+    background-color: white;
+    width: 950px;
+    margin-left: 289.5px;
+    position: absolute;
+    bottom: 50px;
+    box-shadow: 1.5px 1.5px 8px   #349b34;
+
+}
+.div-9{
+    display: inline-block;
+    width: 469px;
+    height: 75px;
+}
+.div-html-1{
+    background-color: rgb(206, 241, 206);
+    width: 380px;
+    height: 15px;
+    border-radius: 25px;
+    margin: 30px 50px ;
+}
+.div-html-2{
+    background-color: rgb(52, 155, 52);
+    width: 342px;                                  
+    height: 15px;
+    border-radius: 25px;   
+}
+.div-css-1{
+    background-color:  rgb(206, 241, 206);
+    width: 380px;
+    height: 15px;
+    border-radius: 25px;
+    margin: 30px 38px ;
+}
+.div-css-2{
+    background-color: rgb(52, 155, 52);
+    width: 266px;
+    height: 15px;
+    border-radius: 25px;
+}
+.div-javascpirt-1{
+    background-color:  rgb(206, 241, 206);
+    width: 380px;
+    height: 15px;
+    border-radius: 25px;
+    margin: 30px 50px ;
+}
+.div-javascpirt-2{
+    background-color: rgb(52, 155, 52);
+    width: 19px;
+    height: 15px;
+    border-radius: 25px;
+}
+.div-bootstrap-1{
+    background-color:  rgb(206, 241, 206);
+    width: 380px;
+    height: 15px;
+    border-radius: 25px;
+    margin: 30px 38px ;
+}
+.div-bootstrap-2{
+    background-color: rgb(52, 155, 52);
+    width: 19px;
+    height: 15px;
+    border-radius: 25px;
+}
+.div-python-1{
+    background-color:  rgb(206, 241, 206);
+    width: 380px;
+    height: 15px;
+    border-radius: 25px;
+    margin: 30px 50px ;
+}
+.div-python-2{
+    background-color:rgb(52, 155, 52);
+    width: 19px;
+    height: 15px;
+    border-radius: 25px;
+}
+.div-kotlin-1{
+    background-color:  rgb(206, 241, 206);
+    width: 380px;
+    height: 15px;
+    border-radius: 25px;
+    margin: 30px 38px ;
+}
+.div-kotlin-2{
+    background-color: rgb(52, 155, 52);
+    width: 190px;
+    height: 15px;
+    border-radius: 25px;
+}
+h5{
+    display: inline;
+}
+.h5-HTML{
+    position: absolute;
+    bottom: 189px;
+    left: 50px;
+}
+.h5-CSS{
+    position: absolute;
+    bottom: 189px;
+    right: 411px;
+}
+.h5-JAVASCPIRT{
+    position: absolute;
+    left: 50px;
+    top: 140px;
+}
+.h5-BOOTSTARAP{
+    position: absolute;
+    top: 140px;
+    right: 345px;
+}
+.h5-PYTHON{
+    position: absolute;
+    top: 222px;
+    left: 50px;
+}
+.h5-KOTLIN{
+    position: absolute;
+    top: 222px;
+    right: 385px;
+}
+.h5-HTML-90{
+    position: absolute;
+    bottom: 189px;
+    right: 525px;
+}
+.h5-CSS-70{
+    position: absolute;
+    bottom: 189px;
+    right: 60px;
+}
+.h5-JAVASCPIRT-5{
+    position: absolute;
+    right: 525px;
+    top: 140px;
+}
+.h5-BOOTSTARAP-5{
+    position: absolute;
+    right: 60px;
+    top: 140px;
+}
+.h5-PYTHON-5{
+    position: absolute;
+    right: 525px;
+    top: 222px;
+}
+.h5-KOTLIN-50{
+    position: absolute;
+    right: 60px;
+    top: 222px;
+}
+.div-page-3{
+    background-color:#f9f9f9;
+    width: 100%;
+    height: 729px;
+    position: relative;
+}
+.div-Education{
+    background-color:#fff;
+    width: 950px;
+    height: 120px;
+    position: absolute;
+    top: 94px;
+    right: 289.5px;
+    box-shadow: 1.5px 1.5px 8px   #349b34;
+}
+.div-Education1{
+    background-color: rgb(52, 155, 52);
+    width: 250px;
+    height: 120px;
+    display: inline-block;
+    position: relative;
+    bottom: 7px;
+}
+.div-Education3{
+    width: 691px;
+    height: 120px;
+    display: inline-block;
+}
+.h2-Education{
+    font-family: 'Bitter', serif;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    color: white;
+}
+.p-Education{
+    padding-left: 5px;
+    position: relative;
+    top: 20px;
+}
+.div-Experience1{
+    background-color:#fff;
+    width: 950px;
+    height: 120px;
+    position: absolute;
+    top: 314px;
+    right: 289.5px;
+    box-shadow: 1.5px 1.5px 8px   #349b34;
+}
+.div-Experience2{
+    background-color:rgb(52, 155, 52);
+    width: 250px;
+    height: 120px;
+    display: inline-block;
+    position: relative;
+    bottom: 0;
+}
+.div-Experience3{
+    width: 691px;
+    height: 120px;
+    display: inline-block;
+}
+.p-Experience3{
+    padding-left: 5px;
+    position: relative;
+    top: 20px;
+    color: black;
+}
+.h2-Experience3{
+    font-family: 'Bitter', serif;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    color: white;
+}
+.a-Hobby{
+    color: white;
+}
+.h2-Hobby{
+    font-family: 'Bitter', serif;
+    text-align: center;
+    position: relative;
+    top: 30px;
+   color: rgb(255, 255, 255);
+}
+.div-hobby1{
+    background-color:#fff;
+    width: 950px;
+    height: 120px;
+    position: absolute;
+    top: 534px;
+    right: 289.5px;
+    box-shadow: 1.5px 1.5px 8px   #349b34;
+}
+.div-hobby2{
+    background-color: rgb(52, 155, 52);
+    width: 250px;
+    height: 120px;
+    display: inline-block;
+    position: relative;
+    bottom: 77.5px;
+}
+.div-hobby3{
+    width: 691px;
+    height: 120px;
+    display: inline-block;
+}
+.div-page-4{
+    background-color: #f9f9f9;
+    width: 100%;
+    height: 729px;
+    position: relative;
+}
+.div-Contact{
+    width: 750px;
+    height: 480px;
+    background-color: white;
+    position: absolute;
+    right: 389.5px;
+    top: 124.5px;
+    box-shadow: 1.5px 1.5px 8px   #349b34;
+}
+.h2-Contact{
+    text-align: center;
+    background-color: #349b34;
+    font-family: 'Bitter', serif;
+    border:3px solid #349b34;
+    width: 200px;
+    color: #fff;
+    border-radius: 5px;
+}
+input{
+    border: 3px solid rgb(52, 155, 52);
+    display:block;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 5px;
+    padding-left: 10px; 
+    width: 220px;
+    height: 30px;
+}
+textarea{
+    border: 3px solid rgb(52, 155, 52);
+    margin-left: 20px;
+    margin-top: 15px;
+    display: block;
+    border-top:hidden ;
+    border-right:hidden ;
+    border-left:hidden ;
+}
+button{
+    display: block;
+    margin-left: 100px;
+    width: 80px;
+    height: 35px;
+    color: white;
+    background-color:rgb(52, 155, 52);
+    margin-top: 15px;
+    border-radius: 8px;
+    border: 1px solid #349b34;
+}
+.div-input{
+    display: inline-block;
+    width: 320px;
+}
+.div-Information-4{
+    display: inline-block;
+    position: absolute;
+    top: 62px;
+    margin-left: 30px;
+}
+td{
+    padding: 20px;
+}
+.h1-hobby{
+    text-align: center;
+}
+.div-image{
+    position: relative;
+    height: 800px;
+}
+.image-exercise{
+    width: 550px;
+    height: 350px;
+    position: absolute;
+    top: 0px;
+    left: 222.5px;
+    border-radius: 10px;
+}
+.image-book{
+    width: 550px;
+    height: 350px;
+    position: absolute;
+    top: 30px;
+    left: 785px;
+    border-radius: 10px;
+}
+.image-music{
+    width: 550px;
+    height: 350px;
+    position: absolute;
+    top:370px;
+    left: 222.5px;
+    border-radius: 10px;
+}
+.image-film{
+    width: 550px;
+    height: 350px;
+    position: absolute;
+    top: 400px;
+    left: 785px;
+    border-radius: 10px;
+}
+.h4-Address{
+    border-bottom: 3px solid rgb(52, 155, 52);
+    width: 56px;
+}
+.h4-Phone{
+    border-bottom: 3px solid rgb(52, 155, 52);
+    width: 42px;
+}
+.h4-Email{
+    border-bottom: 3px solid rgb(52, 155, 52);
+    width: 42px;
+}
